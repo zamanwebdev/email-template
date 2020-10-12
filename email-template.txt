@@ -1,0 +1,11 @@
+Pardot emails don't display properly in Outlook
+https://help.salesforce.com/articleView?id=000312825&language=en_US&type=1&mode=1
+========================================================================================================
+Common email display issues with Outlook
+https://help.activecampaign.com/hc/en-us/articles/115001444310-Common-email-display-issues-with-Outlook
+========================================================================================================
+How to Create Excellent Emails for Outlook.com
+https://www.emailonacid.com/blog/article/email-development/how-to-create-excellent-emails-for-outlook-com/
+========================================================================================================
+Coding Your HTML Emails for Any Device
+https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/
